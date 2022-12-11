@@ -1,0 +1,6 @@
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\bin\Debug\KOITLAB7_2.exe.config
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\bin\Debug\KOITLAB7_2.exe
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\bin\Debug\KOITLAB7_2.pdb
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\obj\Debug\KOITLAB7_2.csproj.CoreCompileInputs.cache
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\obj\Debug\KOITLAB7_2.exe
+C:\Users\Lexap\OneDrive\Документы\Visual Studio 2019\Projects\KOITLAB7\KOITLAB7_2\obj\Debug\KOITLAB7_2.pdb
